@@ -13,7 +13,11 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="097e6e1e-0a19-4ce4-8c21-d0dd911932fa" name="Default Changelist" comment="" />
+    <list default="true" id="097e6e1e-0a19-4ce4-8c21-d0dd911932fa" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/features/addToCart.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/features/addToCart.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/stepDefinitions/addToCartStefDefs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/stepDefinitions/addToCartStefDefs.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -37,7 +41,6 @@
   <component name="PropertiesComponent">
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -86,6 +89,7 @@
       <updated>1600628692925</updated>
       <workItem from="1600628694078" duration="8965000" />
       <workItem from="1600677213901" duration="95000" />
+      <workItem from="1600677360229" duration="459000" />
     </task>
     <servers />
   </component>
@@ -109,21 +113,21 @@
       <screen x="0" y="23" width="1680" height="958" />
     </state>
     <state x="406" y="23" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.23.1680.958@0.23.1680.958" timestamp="1600672000613" />
-    <state width="1358" height="244" key="GridCell.Tab.0.bottom" timestamp="1600677197054">
+    <state width="1358" height="244" key="GridCell.Tab.0.bottom" timestamp="1600677494093">
       <screen x="0" y="23" width="1680" height="956" />
     </state>
-    <state width="1358" height="244" key="GridCell.Tab.0.bottom/0.23.1680.956@0.23.1680.956" timestamp="1600677197054" />
-    <state width="1358" height="244" key="GridCell.Tab.0.center" timestamp="1600677197053">
+    <state width="1358" height="244" key="GridCell.Tab.0.bottom/0.23.1680.956@0.23.1680.956" timestamp="1600677494093" />
+    <state width="1358" height="244" key="GridCell.Tab.0.center" timestamp="1600677494092">
       <screen x="0" y="23" width="1680" height="956" />
     </state>
-    <state width="1358" height="244" key="GridCell.Tab.0.center/0.23.1680.956@0.23.1680.956" timestamp="1600677197053" />
-    <state width="1358" height="244" key="GridCell.Tab.0.left" timestamp="1600677197053">
+    <state width="1358" height="244" key="GridCell.Tab.0.center/0.23.1680.956@0.23.1680.956" timestamp="1600677494092" />
+    <state width="1358" height="244" key="GridCell.Tab.0.left" timestamp="1600677494092">
       <screen x="0" y="23" width="1680" height="956" />
     </state>
-    <state width="1358" height="244" key="GridCell.Tab.0.left/0.23.1680.956@0.23.1680.956" timestamp="1600677197053" />
-    <state width="1358" height="244" key="GridCell.Tab.0.right" timestamp="1600677197054">
+    <state width="1358" height="244" key="GridCell.Tab.0.left/0.23.1680.956@0.23.1680.956" timestamp="1600677494092" />
+    <state width="1358" height="244" key="GridCell.Tab.0.right" timestamp="1600677494093">
       <screen x="0" y="23" width="1680" height="956" />
     </state>
-    <state width="1358" height="244" key="GridCell.Tab.0.right/0.23.1680.956@0.23.1680.956" timestamp="1600677197054" />
+    <state width="1358" height="244" key="GridCell.Tab.0.right/0.23.1680.956@0.23.1680.956" timestamp="1600677494093" />
   </component>
 </project>

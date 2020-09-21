@@ -23,8 +23,8 @@ public class addToCartStefDefs {
     private SignInPage signInPage = new SignInPage(driver);
 
 
-    @Given("^I am on the home page$")
-    public void i_am_on_the_home_page() {
+    @Given("^I am on the my store page$")
+    public void i_am_on_the_my_store_page() {
         myStorePage.goToMyStore();
     }
 
